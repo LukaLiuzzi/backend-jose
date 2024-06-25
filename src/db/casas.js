@@ -1,0 +1,36 @@
+export const casas = [
+  {
+    titulo: "Casa en la playa",
+    precio: 300000,
+    ubicacion: "Cancun",
+    categorias: ["playa", "vacaciones, lujo"],
+    descripcion: "Hermosa casa en la playa con vista al mar",
+    imagenes: ["imagen1.jpg", "imagen2.jpg"],
+    servicios: ["alberca", "seguridad", "jardin"],
+    habitaciones: 4,
+    banos: 3,
+    dimensiones: "300 m2",
+    vendedor: {
+      nombre: "Juan Perez",
+      telefono: "1234567890",
+      email: "",
+    },
+  },
+  {
+    titulo: "Casa en el bosque",
+    precio: 100000,
+    ubicacion: "Pinamar",
+    categorias: ["Bosque", "vacaciones, lujo"],
+    descripcion: "Hermosa casa en la playa con vista al mar",
+    imagenes: ["imagen1.jpg", "imagen2.jpg"],
+    servicios: ["alberca", "seguridad", "jardin"],
+    habitaciones: 4,
+    banos: 3,
+    dimensiones: "300 m2",
+    vendedor: {
+      nombre: "Juan Perez",
+      telefono: "1234567890",
+      email: "",
+    },
+  },
+]
